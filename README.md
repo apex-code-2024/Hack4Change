@@ -1,7 +1,7 @@
 # Awareness Game: Snake and Ladder for Marginalized Communities
 
 # Game Link 
-You can download the game from Google Drive: [Download Link](https://drive.google.com/your-shareable-link)
+You can download the game from Google Drive: [Download Link](https://drive.google.com/drive/u/0/folders/1Pf0tvKcUFsc7dS_slrlufiS8Jx_toZBB)
 
 # Game Name - Play wise
 
