@@ -1,23 +1,32 @@
 # Awareness Game: Snake and Ladder for Marginalized Communities
+
 # Game Name - Play wise
-Welcome to the Awareness Game! This game is designed to educate and raise awareness about key issues faced by marginalized community children in a fun and interactive way. By playing a modified version of Snake and Ladder, players will learn about education, social issues, and health care while they enjoy the game.
+
+**Developed with Unreal Engine 5 (UE5)**
+
+Welcome to the Awareness Game! This interactive and educational adaptation of Snake and Ladder has been developed using Unreal Engine 5 (UE5), offering high-quality graphics and a smooth gameplay experience. This game aims to raise awareness about critical issues faced by marginalized community children in an engaging and informative way.
 
 ## Game Overview
 
 In this version of Snake and Ladder:
 
-- **Board Setup**: The game board follows the classic Snake and Ladder format but with educational elements.
+- **Board Setup**: The game board retains the classic Snake and Ladder design but incorporates educational questions.
 - **Objective**: Move from start to finish by answering questions related to education, social issues, and health care.
 - **Gameplay**:
   - Roll the dice to move your game piece.
-  - Land on a ladder to be presented with a question. Answer correctly to advance. If you answer incorrectly, you remain in place until the correct answer is provided.
-  - Land on a snake and slide down if you haven't answered a question correctly.
+  - Land on a ladder to answer a question. Answer correctly to advance; answer incorrectly to stay in place until you get it right.
+  - Land on a snake to slide down if you haven’t answered the question correctly.
+
+## Development
+
+- **Engine**: Developed using Unreal Engine 5 (UE5), ensuring enhanced graphics and smooth gameplay.
+- **Platform**: Playable on both desktop and mobile devices for accessible and enjoyable gameplay across various platforms.
 
 ## Instructions
 
 1. **Setup**:
    - Place the game board on a flat surface.
-   - Each player chooses a game piece and places it at the starting position.
+   - Each player selects a game piece and places it at the starting position.
    - Have a dice and a list of questions ready.
 
 2. **Playing the Game**:
@@ -33,22 +42,22 @@ In this version of Snake and Ladder:
 
 ## Educational Focus
 
-This game is designed to address the following key areas:
+This game covers:
 
-- **Education**: Questions may cover topics related to access to education, educational challenges, and the importance of learning.
-- **Social Issues**: Questions will focus on various social issues impacting marginalized communities, such as discrimination, economic challenges, and community support.
-- **Health Care**: Questions will address issues related to health care access, common health concerns, and the importance of medical services.
+- **Education**: Questions about access to education, educational challenges, and the importance of learning.
+- **Social Issues**: Topics related to social issues like discrimination, economic challenges, and community support.
+- **Health Care**: Issues related to health care access, common health concerns, and the importance of medical services.
 
 ## Educational Value
 
-The game aims to:
+The game is designed to:
 
-- **Increase Awareness**: Educate players about critical issues faced by marginalized communities.
-- **Encourage Empathy**: Develop a deeper understanding and empathy towards those experiencing these challenges.
-- **Promote Learning**: Reinforce important knowledge through engaging and interactive gameplay.
+- **Increase Awareness**: Educate players about the challenges faced by marginalized communities.
+- **Encourage Empathy**: Foster understanding and empathy towards those facing these challenges.
+- **Promote Learning**: Reinforce important knowledge through an engaging, interactive format.
 
 ## Contact and Feedback
 
-We welcome your feedback and questions! For any inquiries or to share your thoughts, please contact us at: [apexcode2024@gmail.com](mailto:apexcode2024@gmail.com).
+We value your feedback and inquiries! For questions or to share your thoughts, please contact us at: [apexcode2024@gmail.com](mailto:apexcode2024@gmail.com).
 
-Thank you for playing
+Thank you for playing.
