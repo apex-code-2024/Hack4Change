@@ -1,5 +1,8 @@
 # Awareness Game: Snake and Ladder for Marginalized Communities
 
+# Game Link -
+You can download the game from Google Drive: [## Download Link](https://drive.google.com/your-shareable-link)
+
 # Game Name - Play wise
 
 **Developed with Unreal Engine 5 (UE5)**
